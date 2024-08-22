@@ -1,8 +1,5 @@
 {
-
-  script: "mds-ptfx",
-  version: 1.0,
-  discord: "https://discord.gg/KRT4XatnE4"
-
-
+  "script": "mds-ptfx",
+  "version": 1.0,
+  "discord": "https://discord.gg/KRT4XatnE4"
 }
